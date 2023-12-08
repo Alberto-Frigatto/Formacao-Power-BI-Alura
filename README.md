@@ -6,7 +6,7 @@ Material dos cursos da Formação Power BI da Alura
 
 - Curso 1 [Gatito](https://app.powerbi.com/view?r=eyJrIjoiZmQ4OTdmMjEtZTE5OC00N2MwLTk4MTctMDZmMDY5YjlhYjRhIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 - Curso 2 [Buscante](https://app.powerbi.com/view?r=eyJrIjoiMWI4YWI4ZjItNDhkNS00ZDg4LTgzNjMtYjRlMTE0YTE0NTA2IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9&pageName=ReportSection)
-- Curso 3 [Olist](https://app.powerbi.com/view?r=eyJrIjoiMjZjOGRjZGMtZTZiOS00OTRkLTg2YTEtZGM4ZjEwZGRjYmRiIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
+- Curso 3 [Olist](https://app.powerbi.com/view?r=eyJrIjoiOGJhZTg0YjktOTY0NC00NGE0LWI5MWQtOTQ2NmY3Y2Y2MjNjIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
 ## Contato
 
