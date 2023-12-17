@@ -1,0 +1,101 @@
+ID,Título,Preço Unitário,Preço de custo,Estoque livre,Quantidade de vendas
+1,A Ilha do Destino,"R$45,00","R$28,00",39,240
+2,O Enigma da Escuridão,"R$60,00","R$35,00",66,552
+3,O Labirinto dos Segredos,"R$55,00","R$32,00",58,192
+4,A Magia Perdida,"R$50,00","R$30,00",47,216
+5,O Mistério da Noite Estrelada,"R$40,00","R$25,00",36,216
+6,A Vingança do Passado,"R$60,00","R$35,00",57,264
+7,O Segredo da Biblioteca Proibida,"R$45,00","R$28,00",55,312
+8,As Crônicas do Tempo,"R$55,00","R$32,00",40,240
+9,O Jardim dos Sonhos,"R$70,00","R$40,00",58,288
+10,O Portal dos Mundos,"R$45,00","R$28,00",39,144
+11,O Círculo dos Destinos,"R$60,00","R$35,00",46,264
+12,A Herança do Feiticeiro,"R$55,00","R$32,00",61,240
+13,O Despertar das Sombras,"R$50,00","R$30,00",39,168
+14,O Legado do Dragão,"R$40,00","R$25,00",39,240
+15,O Segredo da Rosa Negra,"R$60,00","R$35,00",58,336
+16,O Enigma do Relógio de Areia,"R$45,00","R$28,00",38,240
+17,A Trama das Memórias,"R$55,00","R$32,00",48,312
+18,O Guardião dos Segredos,"R$70,00","R$40,00",58,216
+19,A Profecia do Destino,"R$45,00","R$28,00",47,312
+20,A Magia das Estrelas,"R$60,00","R$35,00",41,240
+21,O Segredo do Espelho Encantado,"R$55,00","R$32,00",56,192
+22,As Aventuras do Viajante do Tempo,"R$50,00","R$30,00",38,216
+23,A Jornada do Herói,"R$40,00","R$25,00",47,288
+24,O Mistério das Sete Chaves,"R$60,00","R$35,00",44,192
+25,O Tesouro Esquecido,"R$45,00","R$28,00",39,216
+26,O Labirinto das Ilusões,"R$55,00","R$32,00",29,120
+27,O Legado Perdido,"R$70,00","R$40,00",43,120
+28,A Busca pelo Conhecimento,"R$45,00","R$28,00",41,240
+29,A Sombra do Passado,"R$60,00","R$35,00",38,264
+30,A Chave do Portal Encantado,"R$55,00","R$32,00",59,216
+31,O Enigma da Esfera de Cristal,"R$50,00","R$30,00",41,216
+32,O Destino do Mundo,"R$40,00","R$25,00",32,168
+33,O Mistério da Cidade Perdida,"R$60,00","R$35,00",35,168
+34,O Pergaminho Sagrado,"R$45,00","R$28,00",36,192
+35,O Segredo da Lua Cheia,"R$55,00","R$32,00",44,240
+36,A Maldição do Antigo Templo,"R$70,00","R$40,00",53,264
+37,A Magia do Livro Encantado,"R$45,00","R$28,00",45,240
+38,A Conspiração das Sombras,"R$60,00","R$35,00",36,96
+39,O Segredo do Amuleto,"R$55,00","R$32,00",58,192
+40,A Profecia das Estrelas,"R$50,00","R$30,00",44,312
+41,O Mistério do Mapa Antigo,"R$40,00","R$25,00",31,144
+42,O Legado do Feiticeiro Negro,"R$60,00","R$35,00",32,72
+43,O Portal das Dimensões,"R$45,00","R$28,00",45,216
+44,O Segredo da Pedra Preciosa,"R$55,00","R$32,00",46,288
+45,A Trama das Emoções,"R$70,00","R$40,00",39,96
+46,A Jornada do Destino,"R$45,00","R$28,00",41,192
+47,O Enigma da Câmara Secreta,"R$60,00","R$35,00",42,264
+48,A Busca pela Verdade,"R$55,00","R$32,00",47,96
+49,O Tesouro do Pirata,"R$50,00","R$30,00",45,216
+50,O Labirinto do Tempo,"R$40,00","R$25,00",44,168
+51,O Legado dos Guardiões,"R$60,00","R$35,00",48,288
+52,A Magia da Rosa Branca,"R$45,00","R$28,00",36,216
+53,O Segredo do Relógio Encantado,"R$55,00","R$32,00",36,216
+54,As Aventuras do Viajante do Espaço,"R$70,00","R$40,00",54,216
+55,O Despertar do Herói,"R$45,00","R$28,00",51,408
+56,O Mistério do Colar de Diamantes,"R$60,00","R$35,00",38,312
+57,A Chave da Sabedoria,"R$55,00","R$32,00",60,216
+58,O Segredo da Floresta Encantada,"R$50,00","R$30,00",48,288
+59,A Jornada do Conquistador,"R$40,00","R$25,00",51,312
+60,O Enigma da Pirâmide,"R$60,00","R$35,00",54,264
+61,O Destino do Reino,"R$45,00","R$28,00",48,312
+62,O Mistério do Vale Proibido,"R$55,00","R$32,00",48,288
+63,O Pergaminho do Feiticeiro,"R$70,00","R$40,00",52,240
+64,O Legado da Lua Azul,"R$45,00","R$28,00",50,240
+65,A Busca pelo Amor,"R$60,00","R$35,00",47,336
+66,A Sombra do Destino,"R$55,00","R$32,00",57,168
+67,A Magia do Portal Secreto,"R$50,00","R$30,00",44,264
+68,A Conspiração das Estrelas,"R$40,00","R$25,00",42,288
+69,O Segredo do Anel,"R$60,00","R$35,00",53,312
+70,A Profecia das Sombras,"R$45,00","R$28,00",29,168
+71,O Mistério do Artefato Sagrado,"R$55,00","R$32,00",28,192
+72,O Tesouro Perdido,"R$70,00","R$40,00",49,168
+73,O Labirinto dos Sonhos,"R$45,00","R$28,00",50,336
+74,O Legado do Feiticeiro Branco,"R$60,00","R$35,00",35,144
+75,O Portal das Ilusões,"R$55,00","R$32,00",57,168
+76,O Segredo da Esmeralda Encantada,"R$50,00","R$30,00",51,408
+77,A Trama dos Segredos,"R$40,00","R$25,00",36,168
+78,A Jornada do Guerreiro,"R$60,00","R$35,00",46,240
+79,O Enigma do Símbolo Oculto,"R$45,00","R$28,00",45,192
+80,A Busca pela Liberdade,"R$55,00","R$32,00",36,312
+81,O Tesouro da Caverna Secreta,"R$70,00","R$40,00",48,192
+82,O Mistério da Floresta Proibida,"R$45,00","R$28,00",48,360
+83,O Destino das Estrelas,"R$60,00","R$35,00",41,240
+84,O Pergaminho da Magia,"R$55,00","R$32,00",63,264
+85,O Segredo da Estátua Mística,"R$50,00","R$30,00",63,456
+86,As Aventuras do Viajante do Futuro,"R$40,00","R$25,00",58,480
+87,O Despertar da Heroína,"R$60,00","R$35,00",49,240
+88,O Mistério da Antiga Relíquia,"R$45,00","R$28,00",37,216
+89,A Chave do Conhecimento,"R$55,00","R$32,00",40,216
+90,O Segredo do Lago Encantado,"R$70,00","R$40,00",60,240
+91,A Jornada do Desbravador,"R$45,00","R$28,00",46,216
+92,O Enigma do Templo Esquecido,"R$60,00","R$35,00",30,120
+93,O Destino do Império,"R$55,00","R$32,00",61,288
+94,O Mistério do Livro Encantado,"R$50,00","R$30,00",43,264
+95,O Legado das Sombras,"R$40,00","R$25,00",51,360
+96,A Busca pelo Tesouro,"R$60,00","R$35,00",46,168
+97,A Magia do Portal do Tempo,"R$45,00","R$28,00",45,240
+98,A Conspiração dos Destinos,"R$55,00","R$32,00",24,120
+99,O Segredo do Medalhão,"R$70,00","R$40,00",49,288
+100,A Profecia das Emoções,"R$45,00","R$28,00",48,216
